@@ -1,4 +1,4 @@
-[11:23 am, 14/7/2024] Rehana: # Cryptography Simulation Project
+# Cryptography Simulation Project
 
 ## Overview
 This project demonstrates a cryptography simulation using mbedTLS/OpenSSL library for securing a custom communication protocol between two parties: a patient and an AI psychologist named ELIZA. The goal is to secure the traffic using RSA certificates and secure the protocol.
